@@ -34,5 +34,3 @@ Press `q` to quit.
 - Heartbeat sensor connected to ADC
 - Buzzer on GPIO pin 18
 
-## License
-MIT License
